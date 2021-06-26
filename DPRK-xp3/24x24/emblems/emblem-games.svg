@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3500002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="emblem-games.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient6987">
+      <stop
+         id="stop6985"
+         offset="0"
+         style="stop-color:#77d2fb;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="10.299802"
+     inkscape:cy="9.3486753"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-290.64999)">
+    <g
+       id="g830"
+       transform="matrix(0.99742963,0,0,0.99742963,0.00816097,0.76272645)">
+      <path
+         inkscape:connector-curvature="0"
+         id="circle1270"
+         d="m 4.2999797,291.00552 a 1.590408,1.590408 0 0 0 -0.9521382,0.31851 2.2159688,2.2159688 0 0 0 -0.7665955,-0.13971 2.2159688,2.2159688 0 0 0 -2.21594184,2.21594 2.2159688,2.2159688 0 0 0 1.03083174,1.86937 1.2080479,1.2080479 0 0 0 -0.0286,0.25775 1.2080479,1.2080479 0 0 0 1.2080254,1.20802 1.2080479,1.2080479 0 0 0 0.9857116,-0.51088 1.5267918,1.5267918 0 0 0 0.8966265,0.29292 1.5267918,1.5267918 0 0 0 1.5267963,-1.52679 1.5267918,1.5267918 0 0 0 -0.6137386,-1.22135 1.590408,1.590408 0 0 0 0.5194129,-1.17339 1.590408,1.590408 0 0 0 -1.5903903,-1.59039 z"
+         style="opacity:0.25;fill:#000000;fill-opacity:0.90196078;fill-rule:nonzero;stroke:none;stroke-width:0.15905213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#c96fde;fill-opacity:0.90196078;fill-rule:nonzero;stroke:#743f80;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9254902"
+         id="circle1049"
+         cx="2.5755858"
+         cy="295.4364"
+         r="1.208048" />
+      <circle
+         r="1.590408"
+         cy="292.50497"
+         cx="4.2999544"
+         id="circle1047"
+         style="opacity:1;fill:#ffca00;fill-opacity:0.90196078;fill-rule:nonzero;stroke:#806500;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9254902" />
+      <circle
+         r="2.2159688"
+         cy="293.3093"
+         cx="2.5812483"
+         id="path1043"
+         style="opacity:1;fill:#0078ff;fill-opacity:0.8;fill-rule:nonzero;stroke:#1d5380;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373" />
+      <circle
+         style="opacity:1;fill:#fc2b53;fill-opacity:0.8;fill-rule:nonzero;stroke:#80152a;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.84705888"
+         id="circle1045"
+         cx="4.4579287"
+         cy="294.89972"
+         r="1.5267918" />
+    </g>
+  </g>
+</svg>
